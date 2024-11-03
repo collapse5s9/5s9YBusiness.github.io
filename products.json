@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Parfum Mastermind",
+      "price": 1000,
+      "image": "img/img1.jpg",
+      "description": "Parfum de luxe pour homme"
+    },
+    {
+      "id": 2,
+      "name": "Parfums 212 VIP Men",
+      "price": 1000,
+      "image": "img/img2.jpg",
+      "description": "Pour l'homme élégant et raffiné"
+    },
+    {
+      "id": 3,
+      "name": "Parfums Astro Gold",
+      "price": 1000,
+      "image": "img/img3.jpg",
+      "description": "Une fragrance unique et distinctive"
+    }
+  ]
+}
